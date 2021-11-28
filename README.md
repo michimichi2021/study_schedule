@@ -13,4 +13,5 @@ AWS：ゼロから実践するAmazon Web Services。手を動かしながらイ�
 
 # ③Rubyの基本文法の勉強
 ・勉強教材<br>
-プロを目指す人のためのRuby入門
+プロを目指す人のためのRuby入門<br>
+https://github.com/michimichi2021/Ruby__study
