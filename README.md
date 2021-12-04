@@ -12,6 +12,6 @@
 ・勉強教材:AWSゼロから実践するAmazon Web Services。手を動かしながらインフラの基礎を習得<br>
 
 
-# ③Rubyの基本文法の勉強
+# ③Rubyの基本文法,ロジックの勉強
 ・勉強教材:プロを目指す人のためのRuby入門<br>
 https://github.com/michimichi2021/Ruby__study
