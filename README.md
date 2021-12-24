@@ -14,4 +14,6 @@
 
 # ③Rubyの基本文法,ロジックの勉強
 ・勉強教材:プロを目指す人のためのRuby入門<br>
-https://github.com/michimichi2021/Ruby__study
+https://github.com/michimichi2021/Ruby__study<br>
+・勉強教材:ドラクエ風ゲームプログラムを作ってみよう！<br>
+https://github.com/michimichi2021/ruby_draque
